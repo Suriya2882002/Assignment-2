@@ -1,5 +1,5 @@
 
-//d latch
+//d LATCH
 module dlatchmod(e, d, q);
 input e;
 input d;
